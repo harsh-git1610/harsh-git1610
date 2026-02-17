@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Chauhan</h1>
 <h3 align="center">A Web Developer capable of converting ideas into real-world applications</h3>
 
-- 🔭 I’m currently working on [FinVio](https://github.com/harsh-git1610/Invoice-Gen)
+- 🔭 I’m currently working on [FinVio](https://fin-vio.vercel.app/)
 
 - 🌱 I’m currently learning **Clean Code Architecture in Web Development**
 
