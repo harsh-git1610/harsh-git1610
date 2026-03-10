@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Innovative Projects that will impact someone's life**
 
-- 💬 Ask me about **React, Node.js, Express, and MongoDB**
+- 💬 Ask me about **React, Node.js, Express, Next.js , PostgreSQL and MongoDB**
 
 - 📫 How to reach me **w.harsh2005@gmail.com**
 
